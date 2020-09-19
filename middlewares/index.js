@@ -9,7 +9,6 @@ const checkToken = (req, res, next) => {
         });
     }
     else{
-        console.log(bearerHeader);
         let bearerToken = bearerHeader.split(' ')[1];
         jwt.verify(bearerToken, salt, (err, authData) => {
             if (err) {

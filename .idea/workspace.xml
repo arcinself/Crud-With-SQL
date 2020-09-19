@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="113662e6-8c12-4873-b985-2dfa589f55a1" name="Default Changelist" comment="" />
+    <list default="true" id="113662e6-8c12-4873-b985-2dfa589f55a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hOpX5OQJRBsXXluTOlgEUhSFjz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +22,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Devnest/CRUD-With-SQL" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,7 +44,10 @@
       <workItem from="1599936897464" duration="811000" />
       <workItem from="1599977196632" duration="4213000" />
       <workItem from="1599982317416" duration="6556000" />
-      <workItem from="1599991734533" duration="4298000" />
+      <workItem from="1599991734533" duration="4767000" />
+      <workItem from="1600507741624" duration="282000" />
+      <workItem from="1600508046842" duration="1696000" />
+      <workItem from="1600511556678" duration="42000" />
     </task>
     <servers />
   </component>
@@ -49,5 +59,13 @@
       <screen x="0" y="27" width="1842" height="1053" />
     </state>
     <state x="654" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1842.1053@0.27.1842.1053" timestamp="1599990135539" />
+    <state x="704" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600511595755">
+      <screen x="0" y="27" width="1842" height="1053" />
+    </state>
+    <state x="704" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1842.1053@0.27.1842.1053" timestamp="1600511595755" />
+    <state x="584" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1600507960705">
+      <screen x="0" y="27" width="1842" height="1053" />
+    </state>
+    <state x="584" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1842.1053@0.27.1842.1053" timestamp="1600507960705" />
   </component>
 </project>
